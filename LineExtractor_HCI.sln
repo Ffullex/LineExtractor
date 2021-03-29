@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineExtractor_HCI", "LineExtractor_HCI.csproj", "{F0EDE87E-46E6-49B6-88E9-F3A311ECCB83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0EDE87E-46E6-49B6-88E9-F3A311ECCB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0EDE87E-46E6-49B6-88E9-F3A311ECCB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0EDE87E-46E6-49B6-88E9-F3A311ECCB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0EDE87E-46E6-49B6-88E9-F3A311ECCB83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3058B67A-5967-4588-8D29-71DB5F5C631B}
+	EndGlobalSection
+EndGlobal

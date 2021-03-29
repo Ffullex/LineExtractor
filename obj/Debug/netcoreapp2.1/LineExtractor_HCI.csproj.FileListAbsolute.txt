@@ -1,0 +1,11 @@
+C:\Users\TomanovskiyYV\source\repos\LineExtractor_HCI\bin\Debug\netcoreapp2.1\LineExtractor_HCI.deps.json
+C:\Users\TomanovskiyYV\source\repos\LineExtractor_HCI\bin\Debug\netcoreapp2.1\LineExtractor_HCI.runtimeconfig.json
+C:\Users\TomanovskiyYV\source\repos\LineExtractor_HCI\bin\Debug\netcoreapp2.1\LineExtractor_HCI.runtimeconfig.dev.json
+C:\Users\TomanovskiyYV\source\repos\LineExtractor_HCI\bin\Debug\netcoreapp2.1\LineExtractor_HCI.dll
+C:\Users\TomanovskiyYV\source\repos\LineExtractor_HCI\bin\Debug\netcoreapp2.1\LineExtractor_HCI.pdb
+C:\Users\TomanovskiyYV\source\repos\LineExtractor_HCI\obj\Debug\netcoreapp2.1\LineExtractor_HCI.csprojAssemblyReference.cache
+C:\Users\TomanovskiyYV\source\repos\LineExtractor_HCI\obj\Debug\netcoreapp2.1\LineExtractor_HCI.csproj.CoreCompileInputs.cache
+C:\Users\TomanovskiyYV\source\repos\LineExtractor_HCI\obj\Debug\netcoreapp2.1\LineExtractor_HCI.AssemblyInfoInputs.cache
+C:\Users\TomanovskiyYV\source\repos\LineExtractor_HCI\obj\Debug\netcoreapp2.1\LineExtractor_HCI.AssemblyInfo.cs
+C:\Users\TomanovskiyYV\source\repos\LineExtractor_HCI\obj\Debug\netcoreapp2.1\LineExtractor_HCI.dll
+C:\Users\TomanovskiyYV\source\repos\LineExtractor_HCI\obj\Debug\netcoreapp2.1\LineExtractor_HCI.pdb
